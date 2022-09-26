@@ -1,0 +1,242 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+/* main */
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    
+    width: 1200px;
+    margin: 0 auto;
+}
+/* aside */
+.aside{
+    background-color: #1E2939;
+    margin-left: 40px;
+    padding-top: 40px;
+    width: 370px;
+}
+/* main-content */
+.main-content{
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+/* about */
+.about{
+   margin-bottom: 40px;
+}
+/* projects */
+.projects {
+    margin-bottom: 50;
+    
+}
+/* work */
+.work{
+    
+}
+/* education */
+.education{
+
+}
+    
+/* title */
+.ptoject-title {
+    
+}
+/* photo */
+.photo{
+    width: 370px;
+    margin-bottom: 50px;
+}
+/* zagolovok */
+.zagolov{
+    color: #FFFFFF;
+    margin-left: 40px;
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 8px;
+}
+/* vidstup */
+.vidstup{
+
+}
+/* C i E */
+.nice{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+margin-left: 50px;
+}
+/* sulki */
+.link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+/* Tech-skills */
+.Tech-skills{
+    color: #FFFFFF;
+    margin-left: 32px;
+}
+.lishku{
+    color: #FB6D3A;
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+}
+.Tech-skills-text{
+    color: #FFFFFF;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+/* about-positio */
+.about-positio{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+margin-bottom: 20px;
+
+}
+/* about-name */
+.about-name{
+    font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+margin-top: 20px;
+margin-bottom: 25px;
+
+}
+/* about-description */
+.about-description{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+width: 400px;
+}
+/* title */
+.title{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin-bottom: 10px;
+}
+.projects-li {
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+/* project-like */
+.project-like,
+.project-link {
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+/* project-link */
+.project-link{
+
+}
+/* project-braket */
+.project-braket{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+/* projects-list */
+.projects-list{
+    padding: 0;
+    margin-left: 15px;
+}
+.project-like{
+    margin-left: 10px;
+}
+/* Front-End-Developer */
+.Front-End-Developer{
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+margin-bottom: 10px;
+}
+.organization{
+    color: #FB6D3A;
+}
+/* time */
+.time{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+margin-bottom: 10px;
+}
+.linia{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.rozmitka{
+    padding: 0;
+    margin-left: 15px;
+
+}
+.work-list-item{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+
+.Education{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin-top: 45px;
+margin-bottom: 10px;
+
+}
+.Management{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-bottom: 10px;
+}
+.National{
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-bottom: 10px;
+}
